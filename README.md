@@ -22,3 +22,7 @@ The in-class time would be split in thirds, with one part devoted to me introduc
 ## Who will teach it?
 
 Aidan Feldman (http://api.afeld.me/), with various guests.
+
+## License
+
+This content is licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
