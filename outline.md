@@ -1,0 +1,41 @@
+# Course Outline
+
+- Git & GitHub
+  - Desktop flow
+  - Pages
+- HTML/JavaScript refresher
+  - Variables
+  - Functions
+  - Async programming
+    - Callbacks
+    - Event handlers
+    - Timers
+  - JQuery
+- Development environment
+  - XCode command-line tools
+  - Editors
+  - Command-line
+  - Chrome developer tools
+- Animation
+  - JQuery
+  - Canvas
+- Client-side storage & state
+  - localStorage
+  - Firebase?
+- Single-page apps
+  - Angular or Ember
+  - Creating APIs
+- Servers
+  - Sinatra
+  - Heroku
+- APIs
+  - OAuth
+  - JSON
+  - JS
+    - Google Maps
+    - Google Charts
+    - YouTube
+    - Facebook
+  - CORS/JSONP
+- Databases
+  - SQL
