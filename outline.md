@@ -17,19 +17,15 @@
     * Command-line
     * Chrome developer tools
 1. Animation
-    * JQuery
+    * jQuery
     * Canvas
 1. Client-side storage & state
     * localStorage
     * Firebase?
 1. Single-page apps
     * Angular or Ember
-    * Creating APIs
-1. Servers
-    * Sinatra
-    * Heroku
 1. APIs
-    * OAuth
+    * OAuth (just as an FYI, to look for APIs that don't require it)
     * JSON
     * JS
         * Google Maps
@@ -37,8 +33,8 @@
         * YouTube
         * Facebook
     * CORS/JSONP
-1. Databases
-    * SQL
+1. ???
+1. ???
 1. ???
 1. ???
 1. ???
