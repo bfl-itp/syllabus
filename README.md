@@ -12,6 +12,17 @@ The goal is to get students to think through various trade-offs inherent to both
 
 I want to experiment with not only developing these applications within a team, but also getting feedback from “3rd-party stakeholders” – that is, other students from other teams.  The teaching of the class itself will be largely collaborative, with students sharing skills gained, coding frameworks discovered, or information learned in pursuit of the projects as a Show & Tell.
 
+## Prerequisites
+
+As this class is within the ITP program, students to have previously taken (or have equivalent technical experience of) [Intro to Computational Media](https://github.com/ITPNYU/ICM-2013) and [Intro to Physical Computing](https://itp.nyu.edu/physcomp/).  This includes:
+
+* Variables
+* Functions
+* Data types
+* Control flow
+
+We will mostly be working in HTML, CSS, and JavaScript, but experience in those is not necessary.  These prerequisites won't be enforced by the instructor, but know that coming in without any programming background will make the assignments very difficult.
+
 ## How will the course be structured?
 
 Every week, we will cover a technical topic related to frontend web development.  Students will then complete one- or two-week assignments building small educational tools, in order to practice those skills.
