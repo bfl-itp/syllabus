@@ -20,11 +20,12 @@
     * https://github.com/craigprotzel/Mashups
 * resources
     * http://www.staticapps.org/
+    * Tools
+        * [Popcorn.js](http://popcornjs.org)
+        * [Parse](https://parse.com)
 * questions
     * how does this course relate to Hacking Higher Ed?
     * what is the goal?
-* goals
-    * "developing online systems for learning / education"
 * Assignments
     * Blogging process
     * Open source
@@ -47,10 +48,9 @@
          * Meetup
          * Google Helpout
     * Use different mediums
-         * Interactive prompt
-         * Audio/video
-         * Use as little text as possible
     * Project musical chairs
+    * Final project
+        * Pick favorite assignment and expand upon it
 * Topics
     * Remote Learning
          * Online classes
@@ -65,13 +65,18 @@
                         * Coursera
                         * Skillshare
               * Solo learning
-                   * Treehouse
-                   * Code School
-                   * Codecademy
-                   * Khan Academy
-         * Q&A
+                  * Tutorial
+                  * Reference
+                  * Examples
+                      * Treehouse
+                      * Code School
+                      * Codecademy
+                      * Khan Academy
+         * Q&A / Community
               * Stack Exchange
               * Yahoo Answers
+              * P2PU
+              * Quora?
          * Tutoring
               * Google Helpouts
               * Thinkful
@@ -79,7 +84,7 @@
     * Adaptive teaching
          * Knewton
          * Handling different types of learners
-    * Building tools for education
+    * Tools
          * Teachers vs. students
          * Tools vs platforms vs lessons
     * Running a classroom like a development shop or incubator
@@ -92,9 +97,30 @@
     * Metrics
     * Participation
     * Feedback and evaluation
-         * Vanessa G
     * Interaction over submission
     * Two-way vs one-way teaching/learning
+    * Assessment
+    * Badges
+    * Commitment level
+    * Prerequisites / expected experience
+    * Community
+    * Mentorship
+    * Support mechanisms
+    * Privacy
+    * Well-defined vs. open-ended exercises/assignments
+    * Pace
+    * Learning styles
+    * Attention span
+    * Audience
+    * Teaching/learning goals
+    * What can't be taught through the web?
+    * What makes a subject easy to teach through the web?
+    * Modalities/mediums
+        * Audio
+        * Text
+        * Video
+        * Interactive
+        * As little text as possible
 * Dan Schiffman, In person
     * Smaller assignments, open ended
     * Nyc workshop for teachers
