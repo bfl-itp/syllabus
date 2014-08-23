@@ -29,12 +29,12 @@ Every week, we will cover a technical topic related to frontend web development.
 
 I’m debating between one large group development project, or two smaller ones.  In the former scenario, they could design and build something relatively substantial.  In the latter, I might split it by having one project focused on content, with the other focused on interactivity.  In either case, the projects can be started relatively early in the term, encouraging “failing fast” and iteration throughout the course as more information is gained.
 
-I love the brown bag lunch idea from Hacking Higher Ed (http://itp.nyu.edu/~dbo3/hack-ed/), and would like to steal the idea for talks by/with professionals in the online education space.  
+I love the brown bag lunch idea from [Hacking Higher Ed](http://itp.nyu.edu/~dbo3/hack-ed/), and would like to steal the idea for talks by/with professionals in the online education space.  
 The in-class time would be split in thirds, with one part devoted to me introducing a technical or education-related topic, another part discussion with a guest, and the third as time for students to present in their Show & Tell / Skill Shares.
 
 ## Who will teach it?
 
-Aidan Feldman (http://api.afeld.me/), with various guests.
+[Aidan Feldman](http://api.afeld.me/), with various guests.
 
 ## License
 
