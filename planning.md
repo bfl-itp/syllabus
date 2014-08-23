@@ -1,23 +1,24 @@
 * Prior art
-    * https://github.com/ITPNYU/ICM-2013
-    * http://itp.nyu.edu/sigs/program/
-    * http://itp.nyu.edu/~dbo3/hack-ed/
-         * love the brown bag lunch idea
-              * "Students need to have watched a video or read something from the guest ahead of time."
-         * nice breakdown of topic by week
-         * assignments include visiting different types of schools
-         * http://itp.nyu.edu/~dbo3/hack-ed/final-project-ideas/
-    * https://docs.google.com/a/nyu.edu/forms/d/1sdvsw7zjgOTc3y79ID3p-JaBaO2wxHy5t8q6XWXfDvE/viewform
+    * Courses
+        * ITP
+            * [Intro to Computational Media](https://github.com/ITPNYU/ICM-2013)
+            * [Hacking Higher Education](http://itp.nyu.edu/~dbo3/hack-ed/)
+             * love the brown bag lunch idea
+                  * "Students need to have watched a video or read something from the guest ahead of time."
+             * nice breakdown of topic by week
+             * assignments include visiting different types of schools
+             * [final project ideas](http://itp.nyu.edu/~dbo3/hack-ed/final-project-ideas/)
+            * [Mashups](https://github.com/craigprotzel/Mashups)
+            * [all](http://itp.nyu.edu/sigs/program/)
+        * Gary Chou – Entrepreneurial Design
+             * http://barbaradewilde.tumblr.com/post/22290976714/can-you-teach-someone-to-be-an-entrepreneur
+             * http://entrepreneurdesigners.tumblr.com/
+                  * interesting use of reposting
+             * [2014 syllabus](https://docs.google.com/document/d/1LGtSpkTaS-keAJ4f6fwgHg78uftmBHK9Ebf87Ht9z6s/edit)
+             * http://michiecao.tumblr.com/post/80989547289/assignment-5-giving-a-talk
+        * http://labx.media.mit.edu/
     * http://www.shirky.com/weblog/2012/11/napster-udacity-and-the-academy/
-    * Gary Chou – Entrepreneurial Design
-         * http://barbaradewilde.tumblr.com/post/22290976714/can-you-teach-someone-to-be-an-entrepreneur
-         * http://entrepreneurdesigners.tumblr.com/
-              * interesting use of reposting
-         * https://docs.google.com/document/d/1LGtSpkTaS-keAJ4f6fwgHg78uftmBHK9Ebf87Ht9z6s/edit
-         * http://michiecao.tumblr.com/post/80989547289/assignment-5-giving-a-talk
-    * http://labx.media.mit.edu/
     * https://www.dropbox.com/s/7qzyg0w34nfbr14/OPENLEARNING.pdf
-    * https://github.com/craigprotzel/Mashups
 * resources
     * http://www.staticapps.org/
     * Tools
