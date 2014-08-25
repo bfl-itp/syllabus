@@ -81,52 +81,60 @@
               * Stack Exchange
               * Yahoo Answers
               * P2PU
-              * Quora?
+              * Quora
+              * mailing lists / forums
          * Tutoring
               * Google Helpouts
               * Thinkful
-    * Individualized learning
-    * Adaptive teaching
-         * Knewton
-         * Handling different types of learners
     * Tools
-         * Teachers vs. students
-         * Tools vs platforms vs lessons
-    * Running a classroom like a development shop or incubator
-    * Competition and collaboration
-    * Consume vs create
+        * Teachers vs. students
+        * Tools vs platforms vs lessons
+    * Assignment/exercise design
+        * Competition and collaboration
+        * Consume vs create
+        * Interaction over submission
+        * Well-defined vs. open-ended
+        * Modalities/mediums
+            * Audio
+            * Text
+            * Video
+            * Interactive
+            * As little text as possible
+            * Questions
+                * What makes a subject easy to teach through the web?
+                * What can't be taught through the web?
     * Incentives
-         * Positive vs negative
-         * Competitive vs intrinsic/personal
-    * Flip the classroom
-    * Metrics
-    * Participation
-    * Feedback and evaluation
-    * Interaction over submission
+        * Positive vs negative
+        * Competitive vs intrinsic/personal
     * Two-way vs one-way teaching/learning
-    * Assessment
-    * Badges
-    * Commitment level
-    * Prerequisites / expected experience
-    * Community
-    * Mentorship
+    * Course structure
+        * Pace
+        * Flip the classroom
+        * Individualized learning
+        * Adaptive teaching
+            * Knewton
+            * Handling different types of learners
+        * Running a class like a development shop, think tank, or incubator
+        * Learning "on the job"
+    * Outcomes
+        * Feedback
+        * Evaluation
+        * Participation
+        * Metrics
+        * Assessment
+        * Badges
     * Support mechanisms
+        * Community
+        * Mentorship
     * Privacy
-    * Well-defined vs. open-ended exercises/assignments
-    * Pace
-    * Learning styles
-    * Attention span
     * Audience
-    * Teaching/learning goals
-    * What can't be taught through the web?
-    * What makes a subject easy to teach through the web?
+        * Prerequisites / expected experience
+        * Attention span
+        * Learning styles
+        * Learning goals
+        * Commitment level
+    * Teaching goals
     * Spectrum of sync (w/ cohorts?) to async
-    * Modalities/mediums
-        * Audio
-        * Text
-        * Video
-        * Interactive
-        * As little text as possible
 * Dan Schiffman, In person
     * Smaller assignments, open ended
     * Nyc workshop for teachers

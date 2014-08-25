@@ -1,5 +1,21 @@
 # Course Outline
 
+## Educational Topics
+
+1. Introduction
+    * Me
+        * Not an education expert
+        * Builder, not a theorist
+        * My experience (and examples) are mostly around coding education
+    * You
+        * Mix of skills
+        * Varying degrees of technical experience
+    * Goals
+        * Mine
+        * Yours
+
+## Technical Topics
+
 1. Git & GitHub
     * Desktop flow
     * Pages
