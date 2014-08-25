@@ -8,11 +8,13 @@
         * Builder, not a theorist
         * My experience (and examples) are mostly around coding education
     * You
-        * Mix of skills
-        * Varying degrees of technical experience
+        * Name
+        * What are your greatest skills?
+        * What is your technical experience?
+        * What was your most memorable learning moment?
+        * Why are you in this class?
     * Goals
-        * Mine
-        * Yours
+        * Circular experiment
 
 ## Technical Topics
 
