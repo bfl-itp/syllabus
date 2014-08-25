@@ -17,6 +17,9 @@
              * [2014 syllabus](https://docs.google.com/document/d/1LGtSpkTaS-keAJ4f6fwgHg78uftmBHK9Ebf87Ht9z6s/edit)
              * http://michiecao.tumblr.com/post/80989547289/assignment-5-giving-a-talk
         * http://labx.media.mit.edu/
+        * Learning Creative Learning
+            * [in-person](http://mas712.media.mit.edu/)
+            * [online](http://learn.media.mit.edu/lcl/)
     * http://www.shirky.com/weblog/2012/11/napster-udacity-and-the-academy/
     * https://www.dropbox.com/s/7qzyg0w34nfbr14/OPENLEARNING.pdf
 * resources
@@ -41,8 +44,9 @@
               * Soloway's class
     * Learning materials vs tools
     * Solve the problem as best you can without writing a line of code
-         * Thinkful
-              * http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/
+        * [How to Train Your Robot](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
+        * Thinkful
+            * http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/
     * Challenge students to make something that isn't around coding?
     * Teach a workshop
          * Skillshare
@@ -116,6 +120,7 @@
     * Teaching/learning goals
     * What can't be taught through the web?
     * What makes a subject easy to teach through the web?
+    * Spectrum of sync (w/ cohorts?) to async
     * Modalities/mediums
         * Audio
         * Text

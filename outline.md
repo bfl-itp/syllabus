@@ -18,10 +18,13 @@
     * Chrome developer tools
 1. Animation
     * jQuery
+    * SVG
+        * Exporting from Illustrator
+        * [Snap.svg](http://snapsvg.io/)
     * Canvas
 1. Client-side storage & state
     * localStorage
-    * Firebase?
+    * [Firebase](https://www.firebase.com/)?
 1. Single-page apps
     * Angular or Ember
 1. APIs
