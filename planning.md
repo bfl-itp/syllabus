@@ -3,7 +3,7 @@
         * ITP
             * [Intro to Computational Media](https://github.com/ITPNYU/ICM-2013)
             * [Hacking Higher Education](http://itp.nyu.edu/~dbo3/hack-ed/)
-             * love the brown bag lunch idea
+             * brown bag lunch
                   * "Students need to have watched a video or read something from the guest ahead of time."
              * nice breakdown of topic by week
              * assignments include visiting different types of schools
@@ -58,85 +58,10 @@
         * Pick favorite assignment and expand upon it
 * Topics
     * Remote Learning
-         * Online classes
-    * Models
-         * teaching
-              * MOOCs
-                   * Pros
-                        * Flexibility of schedule
-                        * Sometimes/somewhat async
-                   * Examples
-                        * [Udacity](https://www.udacity.com/)
-                        * [Coursera](https://www.coursera.org/)
-                        * [edX](https://www.edx.org/)
-                        * [Skillshare](http://www.skillshare.com/)
-                        * [iTunes U](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=27753&mt=10)
-              * Solo learning
-                  * Tutorial
-                  * Reference
-                  * Examples
-                      * [Treehouse](http://teamtreehouse.com/)
-                      * [Code School](https://www.codeschool.com/)
-                      * [Codecademy](http://www.codecademy.com/)
-                      * [Khan Academy](https://www.khanacademy.org/)
-         * Q&A / Community
-              * [Stack Exchange](http://stackexchange.com/)
-              * [Yahoo Answers](https://answers.yahoo.com/)
-              * [P2PU](https://p2pu.org/)
-              * [Quora](http://www.quora.com/)
-              * mailing lists / forums
-         * Tutoring
-              * [Google Helpouts](https://helpouts.google.com/)
-              * [Thinkful](http://www.thinkful.com/)
-    * Tools
-        * Teachers vs. students
-        * Tools vs platforms vs lessons
-    * Assignment/exercise design
-        * Competition and collaboration
-        * Consume vs create
-        * Interaction over submission
-        * Well-defined vs. open-ended
-        * Modalities/mediums
-            * Audio
-            * Text
-            * Video
-            * Interactive
-            * As little text as possible
-            * Questions
-                * What makes a subject easy to teach through the web?
-                * What can't be taught through the web?
-    * Incentives
-        * Positive vs negative
-        * Competitive vs intrinsic/personal
+        * Online classes
     * Two-way vs one-way teaching/learning
-    * Course structure
-        * Pace
-        * Flip the classroom
-        * Individualized learning
-        * Adaptive teaching
-            * [Knewton](http://www.knewton.com/)
-            * Handling different types of learners
-        * Running a class like a development shop, think tank, or incubator
-        * Learning "on the job"
-    * Outcomes
-        * Feedback
-        * Evaluation
-        * Participation
-        * Metrics
-        * Assessment
-        * Badges
-    * Support mechanisms
-        * Community
-        * Mentorship
     * Privacy
-    * Audience
-        * Prerequisites / expected experience
-        * Attention span
-        * Learning styles
-        * Learning goals
-        * Commitment level
     * Teaching goals
-    * Spectrum of sync (w/ cohorts?) to async
 * Dan Schiffman, In person
     * Smaller assignments, open ended
     * NYC workshop for teachers
