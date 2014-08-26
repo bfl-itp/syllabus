@@ -62,6 +62,9 @@
     * Two-way vs one-way teaching/learning
     * Privacy
     * Teaching goals
+    * Quick iteration
+    * Single-page apps
+        * Angular or Ember
 * Dan Schiffman, In person
     * Smaller assignments, open ended
     * NYC workshop for teachers
