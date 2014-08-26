@@ -24,6 +24,8 @@
             * Pros
                 * Flexibility of schedule
                 * Sometimes/somewhat async
+            * Cons
+                * Very low completion rates
             * Examples
                 * [Udacity](https://www.udacity.com/)
                 * [Coursera](https://www.coursera.org/)
@@ -47,6 +49,22 @@
     * Tutoring
         * [Google Helpouts](https://helpouts.google.com/)
         * [Thinkful](http://www.thinkful.com/)
+1. Audience
+    * Prerequisites / expected experience
+    * Attention span
+    * Learning styles
+    * Learning goals
+    * Commitment level
+1. Course structure
+    * Pace
+    * Flip the classroom
+    * Individualized learning
+    * Adaptive teaching
+        * [Knewton](http://www.knewton.com/)
+        * Handling different types of learners
+    * Running a class like a development shop, think tank, or incubator
+    * Learning "on the job"
+    * Spectrum of sync (w/ cohorts?) to async
 1. Assignment/exercise design
     * Competition and collaboration
     * Consume vs create
@@ -64,16 +82,9 @@
 1. Incentives
     * Positive vs negative
     * Competitive vs intrinsic/personal
-1. Course structure
-    * Pace
-    * Flip the classroom
-    * Individualized learning
-    * Adaptive teaching
-        * [Knewton](http://www.knewton.com/)
-        * Handling different types of learners
-    * Running a class like a development shop, think tank, or incubator
-    * Learning "on the job"
-    * Spectrum of sync (w/ cohorts?) to async
+1. Support mechanisms
+    * Community
+    * Mentorship
 1. Outcomes
     * Feedback
     * Evaluation
@@ -81,15 +92,6 @@
     * Metrics
     * Assessment
     * Badges
-1. Support mechanisms
-    * Community
-    * Mentorship
-1. Audience
-    * Prerequisites / expected experience
-    * Attention span
-    * Learning styles
-    * Learning goals
-    * Commitment level
 
 ## Technical Topics
 
