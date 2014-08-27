@@ -8,24 +8,26 @@
         * Cons
             * Very low completion rates
         * Examples
-            * [Udacity](https://www.udacity.com/)
             * [Coursera](https://www.coursera.org/)
-            * [edX](https://www.edx.org/)
             * [Skillshare](http://www.skillshare.com/)
+            * [Udacity](https://www.udacity.com/)
+            * [edX](https://www.edx.org/)
             * [iTunes U](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=27753&mt=10)
     * Solo learning
-        * Tutorial
+        * Tutorials
         * Reference
         * Examples
-            * [Treehouse](http://teamtreehouse.com/)
             * [Code School](https://www.codeschool.com/)
             * [Codecademy](http://www.codecademy.com/)
             * [Khan Academy](https://www.khanacademy.org/)
+            * [One Month](https://onemonth.com/)
+            * [Thinkful](http://www.thinkful.com/)
+            * [Treehouse](http://teamtreehouse.com/)
 * Q&A / Community
-    * [Stack Exchange](http://stackexchange.com/)
-    * [Yahoo Answers](https://answers.yahoo.com/)
     * [P2PU](https://p2pu.org/)
     * [Quora](http://www.quora.com/)
+    * [Stack Exchange](http://stackexchange.com/)
+    * [Yahoo Answers](https://answers.yahoo.com/)
     * mailing lists / forums
 * Tutoring
     * [Google Helpouts](https://helpouts.google.com/)

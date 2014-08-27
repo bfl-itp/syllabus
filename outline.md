@@ -19,3 +19,9 @@
     * Mentorship
 1. [Outcomes](topics/outcomes.md)
     * Technical: [APIs](topics/apis.md)
+
+## Speakers
+
+* Sept 25: [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
+* Oct 16 or 23: [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
+* Late Sept: [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
