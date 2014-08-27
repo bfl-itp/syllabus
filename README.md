@@ -1,7 +1,7 @@
 # Building for Learning
 
 * **Course:** [ITPG-GT 2623-001](https://itp.nyu.edu/classes/listings/2014/building-for-learning/), [NYU ITP](http://itp.nyu.edu/itp/), Fall 2014
-* **Instructor:** [Aidan Feldman](http://api.afeld.me/)
+* **Instructor:** [Aidan Feldman](http://api.afeld.me/), [alf9@nyu.edu](mailto:alf9@nyu.edu)
 * **Office Hours:** at [Hacker Hours](http://hackerhours.org), or by appointment
 * **Links:**
     * [Syllabus](outline.md)
