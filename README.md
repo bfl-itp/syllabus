@@ -23,7 +23,7 @@ As this class is within the ITP program, students to have previously taken (or h
 * Data types
 * Control flow
 
-We will mostly be working in HTML, CSS, and JavaScript, but experience in those is not necessary.  These prerequisites won't be enforced by the instructor, but know that coming in without any programming background will make the assignments very difficult.
+We will mostly be working in HTML, CSS, and JavaScript, but experience in those is not necessary.  These prerequisites won't be enforced by the instructor, but know that coming in without any programming background will make the assignments especially challenging. 
 
 ## License
 
