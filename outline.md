@@ -1,6 +1,6 @@
 # Course Outline
 
-**Order, structure, and basically everything subject to change.**
+*Order, structure, and basically everything subject to change.*
 
 1. [Introduction](topics/introduction.md)
     * Technical:
