@@ -17,7 +17,7 @@
 1. [Incentives](topics/incentives.md)
     * Technical: [Persistence](topics/persistence.md)
 1. Support mechanisms
-    * Community
+    * [Community](topics/community.md)
     * Mentorship
 1. [Outcomes](topics/outcomes.md)
     * Technical: [APIs](topics/apis.md)
