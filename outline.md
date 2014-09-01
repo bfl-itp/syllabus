@@ -29,3 +29,4 @@
 * Oct 16 or 23: [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
 * [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * [John Resig](http://ejohn.org/), [Khan Academy](https://www.khanacademy.org/)
+* [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
