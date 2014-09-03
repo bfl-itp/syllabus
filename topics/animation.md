@@ -8,7 +8,3 @@
 * Uses
     * Feedback
     * Suggestion/hints
-
-## Exercise
-
-Make your project move.

@@ -13,11 +13,13 @@
 
 * Discussion: [Models](topics/models.md)
 * Technical: [HTML & CSS](topics/html.md)
+* Assignment: Make the landing page for your learning resource.
 
 ## Sep 18
 
 * Discussion: [Audience](topics/audience.md)
 * Technical: [JavaScript](topics/javascript.md)
+* Assignment: Incorporate audio/video using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
 ## Sep 25
 
@@ -29,11 +31,13 @@
 
 * Discussion: [Assignment/exercise design](assignment_design.md)
 * Technical: [Animation](topics/animation.md)
+* Assignment: Make your project move.
 
 ## Oct 9
 
 * Discussion: [Incentives](topics/incentives.md)
 * Technical: [Persistence](topics/persistence.md)
+* Assignment: Make your project remember where the user left off.
 
 ## Oct 16
 

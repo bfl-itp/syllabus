@@ -13,7 +13,3 @@
     * Callbacks
     * Event handlers
     * Timers
-
-## Exercise
-
-Incorporate audio/video using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality – unedited webcam or cell phone camera footage/recording is fine.

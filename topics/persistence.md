@@ -10,7 +10,3 @@
     * Backends as a service
         * [Firebase](https://www.firebase.com/)
         * [Parse](https://parse.com)
-
-## Exercise
-
-Make your project remember where the user left off.
