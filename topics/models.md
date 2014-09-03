@@ -1,6 +1,6 @@
 # Models
 
-* teaching
+* Teaching
     * MOOCs
         * Pros
             * Flexibility of schedule
@@ -23,12 +23,13 @@
             * [One Month](https://onemonth.com/)
             * [Thinkful](http://www.thinkful.com/)
             * [Treehouse](http://teamtreehouse.com/)
-* Q&A / Community
+* Communities
     * [P2PU](https://p2pu.org/)
+    * Mailing lists / forums
+* Q&A
     * [Quora](http://www.quora.com/)
     * [Stack Exchange](http://stackexchange.com/)
     * [Yahoo Answers](https://answers.yahoo.com/)
-    * mailing lists / forums
 * Tutoring
     * [Google Helpouts](https://helpouts.google.com/)
     * [Thinkful](http://www.thinkful.com/)

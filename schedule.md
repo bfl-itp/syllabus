@@ -8,6 +8,7 @@
 * Technical:
     * Editors
     * [Git & GitHub](topics/github.md)
+* Assignment: Make a tutorial that could be understood by someone who doesn't speak English. Use any other medium/materials you want, *other* than a web page: crayon drawing, origami, Lego diorama, etc.
 
 ## Sep 11
 

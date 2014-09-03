@@ -10,6 +10,8 @@
     * What is your technical experience?
     * What was your most memorable learning moment?
     * Why are you in this class?
+* Polls
+    * Who has some sort of blog?
 * Goals
     * Circular experiment
     * Building tools

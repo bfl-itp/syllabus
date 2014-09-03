@@ -11,3 +11,5 @@
     * Udacity
         * http://www.meetup.com/Udacity/
         * http://blog.udacity.com/2012/08/tips-for-organizing-your-udacity-study.html
+* UX
+    * http://ux.stackexchange.com/questions/1712/what-is-a-good-way-to-display-infinite-nested-comments
