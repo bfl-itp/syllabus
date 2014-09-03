@@ -24,9 +24,6 @@
     * https://www.dropbox.com/s/7qzyg0w34nfbr14/OPENLEARNING.pdf
 * resources
     * http://www.staticapps.org/
-    * Tools
-        * [Popcorn.js](http://popcornjs.org)
-        * [Parse](https://parse.com)
 * questions
     * how does this course relate to Hacking Higher Ed?
     * what is the goal?
@@ -62,7 +59,6 @@
     * Two-way vs one-way teaching/learning
     * Privacy
     * Teaching goals
-    * Quick iteration
     * Single-page apps
         * Angular or Ember
 * Dan Schiffman, In person

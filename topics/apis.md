@@ -1,6 +1,7 @@
 # APIs
 
-* OAuth (just as an FYI, to look for APIs that don't require it)
+* OAuth
+    * Just as an FYI – look for [APIs that don't require it](https://gist.github.com/afeld/4952991)
 * JSON
 * JS
     * Google Maps

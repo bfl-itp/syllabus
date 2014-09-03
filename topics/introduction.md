@@ -15,3 +15,8 @@
     * Building tools
         * Teachers vs. students
         * Tools vs platforms vs lessons
+    * Quick iteration, for assignments and the class itself
+
+## Exercise
+
+In two minutes, type/write down everything you would be qualified to teach.
