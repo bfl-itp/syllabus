@@ -11,6 +11,7 @@
     * What was your most memorable learning moment?
     * Why are you in this class?
 * Polls
+    * Who has taken Hacking Higher Ed?
     * Who has some sort of blog?
 * Goals
     * Circular experiment
@@ -22,6 +23,8 @@
         * Assignments
         * The class itself
             * [Syllabus](../schedule.md)
+    * Make this class enjoyable
+        * Few of you will (want to) do this professionally, so let's have fun
 
 ## Exercise
 

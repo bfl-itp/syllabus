@@ -8,13 +8,14 @@
 * **Technical:**
     * Editors
     * [Git & GitHub](topics/github.md)
-* **Assignment:** Make a tutorial that could be understood by someone who doesn't speak English. Use any other medium/materials you want, *other* than a web page: crayon drawing, origami, Lego diorama, etc.
+* **Assignment:** Make a small tutorial or instructional "thing" that could be understood by someone who doesn't speak English. Use any medium/materials/style you want, *other* than a web page: crayon drawing, [aircraft safety card](https://www.google.com/search?q=aircraft+safety+card&tbm=isch), origami, Lego diorama, [IKEA-style manual](http://www.ikea.com/ms/en_US/customer_service/assembly_instructions.html), etc.
 
 ## Sep 11
 
+* **Show & tell:** "Offline" assignment
 * **Discussion:** [Models](topics/models.md)
 * **Technical:** [HTML & CSS](topics/html.md)
-* **Assignment:** Make the landing page for your learning resource.
+* **Assignment:** Take the offline assignment online.
 
 ## Sep 18
 

@@ -26,6 +26,10 @@ As this class is within the ITP program, students to have previously taken (or h
 
 We will mostly be working in HTML, CSS, and JavaScript, but experience in those is not necessary.  These prerequisites won't be enforced by the instructor, but know that coming in without any programming background will make the assignments especially challenging.
 
+## Expectations
+
+Keep track of inspiration and resources used for each assignment, and share them during show & tell.
+
 ## License
 
 This content is licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).  [Avatar](archive/mortar_square.png) c/o [Karen Arnold](http://pixabay.com/p-316875/).

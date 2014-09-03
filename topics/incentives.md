@@ -1,5 +1,7 @@
 # Incentives
 
 * Positive vs negative
-* Competitive vs intrinsic/personal
+* Motivation
+    * Competitive
+    * Intrinsic/personal
 * Badges

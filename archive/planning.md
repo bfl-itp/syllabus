@@ -29,7 +29,6 @@
     * what is the goal?
 * Assignments
     * Blogging process
-    * Open source
     * Show and tell
          * Skill shares
               * Discover what skills you need to complete your projects
