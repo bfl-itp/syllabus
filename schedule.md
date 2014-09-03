@@ -1,4 +1,4 @@
-# Course Outline
+# Course Schedule
 
 *Order, structure, and basically everything subject to change.*
 

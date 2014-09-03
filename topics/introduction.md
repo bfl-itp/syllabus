@@ -19,7 +19,7 @@
         * [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) vs. [agile](https://en.wikipedia.org/wiki/Agile_software_development)
         * Assignments
         * The class itself
-            * [Syllabus](../outline.md)
+            * [Syllabus](../schedule.md)
 
 ## Exercise
 
