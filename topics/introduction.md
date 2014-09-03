@@ -15,7 +15,11 @@
     * Building tools
         * Teachers vs. students
         * Tools vs platforms vs lessons
-    * Quick iteration, for assignments and the class itself
+    * Quick iteration
+        * [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) vs. [agile](https://en.wikipedia.org/wiki/Agile_software_development)
+        * Assignments
+        * The class itself
+            * [Syllabus](../outline.md)
 
 ## Exercise
 
