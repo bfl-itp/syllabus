@@ -28,4 +28,4 @@ We will mostly be working in HTML, CSS, and JavaScript, but experience in those 
 
 ## License
 
-This content is licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).  Avatar c/o [Karen Arnold](http://pixabay.com/p-316875/).
+This content is licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).  [Avatar](mortar_square.png) c/o [Karen Arnold](http://pixabay.com/p-316875/).
