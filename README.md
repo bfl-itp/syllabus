@@ -5,6 +5,7 @@
 * **Office Hours:** at [Hacker Hours](http://hackerhours.org), or by appointment
 * **Links:**
     * [Syllabus](outline.md)
+    * [Mailing list](https://groups.google.com/a/nyu.edu/forum/#!forum/bfl-f14-group)
 
 ## Course description
 
