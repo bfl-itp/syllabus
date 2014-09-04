@@ -28,7 +28,13 @@ We will mostly be working in HTML, CSS, and JavaScript, but experience in those 
 
 ## Expectations
 
-Keep track of inspiration and resources used for each assignment, and share them during show & tell.
+You will be evaluated on:
+
+* On-time participation – 20%
+* Assignments – 55%
+* Final project – 25%
+
+Also, keep track of inspiration and resources used for each assignment, and share them when presenting each project.
 
 ## License
 
