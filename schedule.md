@@ -15,13 +15,18 @@
 * **Show & tell:** "Offline" assignment
 * **Discussion:** [Models](topics/models.md)
 * **Technical:** [HTML & CSS](topics/html.md)
-* **Assignment:** Take the offline assignment online.
+* **Assignments:**
+    * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
+    * Take the offline assignment online.
 
 ## Sep 18
 
 * **Discussion:** [Audience](topics/audience.md)
 * **Technical:** [JavaScript](topics/javascript.md)
-* **Assignment:** Incorporate audio/video using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
+* **Speaker:** [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
+* **Assignments:**
+    * Read ["Using Google Docs to scale a lean startup"](http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/)
+    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
 ## Sep 25
 
@@ -39,7 +44,9 @@
 
 * **Discussion:** [Incentives](topics/incentives.md)
 * **Technical:** [Persistence](topics/persistence.md)
-* **Assignment:** Make your project remember where the user left off.
+* **Assignments:**
+    * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
+    * Make your project remember where the user left off.
 
 ## Oct 16
 
@@ -76,5 +83,4 @@ Final project presentations
 
 ## Additional speakers
 
-* **Late Sept:** [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
 * [John Resig](http://ejohn.org/), [Khan Academy](https://www.khanacademy.org/)

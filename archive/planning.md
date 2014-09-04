@@ -1,6 +1,7 @@
 * Prior art
     * Courses
         * ITP
+            * http://facultyhelp.itp.nyu.edu/
             * [Intro to Computational Media](https://github.com/ITPNYU/ICM-2013)
             * [Hacking Higher Education](http://itp.nyu.edu/~dbo3/hack-ed/)
                 * brown bag lunch
@@ -40,9 +41,6 @@
               * Soloway's class
     * Learning materials vs tools
     * Solve the problem as best you can without writing a line of code
-        * [How to Train Your Robot](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
-        * Thinkful
-            * http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/
     * Challenge students to make something that isn't around coding?
     * Teach a workshop
         * [Skillshare](http://www.skillshare.com/)
