@@ -13,7 +13,7 @@
 ## Sep 11
 
 * **Show & tell:** "Offline" assignment
-* **Discussion:** [Models](topics/models.md)
+* **Discussion:** [The Ed-Tech Landscape](topics/landscape.md)
 * **Technical:** [HTML & CSS](topics/html.md)
 * **Assignments:**
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
