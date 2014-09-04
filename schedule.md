@@ -8,6 +8,7 @@
 * **Technical:**
     * [Editors](editors.md)
     * [Git & GitHub](topics/github.md)
+    * [Workflow](https://github.com/advanced-js/syllabus#workflow) (note the instructions are written for another class)
 * **Assignment:** Make a small tutorial or instructional "thing" that could be understood by someone who doesn't speak English. Use any medium/materials/style you want, *other* than a web page: crayon drawing, [aircraft safety card](https://www.google.com/search?q=aircraft+safety+card&tbm=isch), origami, Lego diorama, [IKEA-style manual](http://www.ikea.com/ms/en_US/customer_service/assembly_instructions.html), etc.
 
 ## Sep 11
