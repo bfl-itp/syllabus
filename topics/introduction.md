@@ -13,6 +13,8 @@
 * Polls
     * Who has taken Hacking Higher Ed?
     * Who has some sort of blog?
+* Motivating example
+    * Code.org's [Hour of Code](http://learn.code.org/hoc/1)
 * Goals
     * Circular experiment
     * Building tools
