@@ -19,6 +19,10 @@
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
     * Take the offline assignment online.
 
+## Sep 12, 6:30-8pm
+
+GitHub workshop
+
 ## Sep 18
 
 * **Discussion:** [Audience](topics/audience.md)
@@ -60,6 +64,10 @@
     * [Community](topics/community.md)
     * Mentorship
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
+
+## Oct 18-19 (strongly recommended)
+
+[Education Tools Hackathon](http://edhacks.org/)
 
 ## Oct 23
 
