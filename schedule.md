@@ -26,6 +26,7 @@
 * **Speaker:** [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
 * **Assignments:**
     * Read ["Using Google Docs to scale a lean startup"](http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/)
+    * Watch [Salman Khan's TED Talk](http://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education)
     * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
 ## Sep 25
@@ -33,12 +34,17 @@
 * **Discussion:** [Course structure](topics/course_structure.md)
 * **Technical:** jQuery basics
 * **Speaker:** [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
+* **Assignments:**
+    * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
+    * TBD
 
 ## Oct 2
 
 * **Discussion:** [Assignment/exercise design](assignment_design.md)
 * **Technical:** [Animation](topics/animation.md)
-* **Assignment:** Make your project move.
+* **Assignment:**
+    * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
+    * Make your project move.
 
 ## Oct 9
 

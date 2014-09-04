@@ -25,6 +25,9 @@
     * https://www.dropbox.com/s/7qzyg0w34nfbr14/OPENLEARNING.pdf
 * resources
     * http://www.staticapps.org/
+    * TED talk playlists
+        * [Re-imagining school](http://www.ted.com/playlists/24/re_imagining_school)
+        * [MOOCs 101](http://www.ted.com/playlists/24/re_imagining_school)
 * questions
     * how does this course relate to Hacking Higher Ed?
     * what is the goal?
