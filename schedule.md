@@ -51,6 +51,9 @@ GitHub workshop
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
     * Make your project move.
+    * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
+    * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
+    * Read ["How to Design Community-Building Events People Will Love and Remember](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
 
 ## Oct 9
 
