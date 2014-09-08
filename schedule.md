@@ -47,6 +47,7 @@ GitHub workshop
 
 * **Discussion:** [Assignment/exercise design](assignment_design.md)
 * **Technical:** [Animation](topics/animation.md)
+* **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
     * Make your project move.
@@ -75,9 +76,7 @@ GitHub workshop
 
 * **Discussion:** [Outcomes](topics/outcomes.md)
 * **Technical:** [APIs](topics/apis.md)
-* **Speakers:**
-    * [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
-    * [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
+* **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 
 ## Oct 30
 
