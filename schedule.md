@@ -84,7 +84,8 @@ TBD
 
 ## Nov 6
 
-TBD
+* TBD
+* **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
 
 ## Nov 13
 
