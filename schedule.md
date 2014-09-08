@@ -40,7 +40,9 @@ GitHub workshop
 * **Technical:** jQuery basics
 * **Speaker:** [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
 * **Assignments:**
-    * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
+    * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
+    * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
+    * Read ["How to Design Community-Building Events People Will Love and Remember](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
     * TBD
 
 ## Oct 2
@@ -77,6 +79,9 @@ GitHub workshop
 * **Discussion:** [Outcomes](topics/outcomes.md)
 * **Technical:** [APIs](topics/apis.md)
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
+* **Assignments:**
+    * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
+    * TBD
 
 ## Oct 30
 
