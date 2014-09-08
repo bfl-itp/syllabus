@@ -1,6 +1,6 @@
 # Course Schedule
 
-*Order, structure, and basically everything subject to change.*
+Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically everything subject to change.*
 
 ## Sep 4
 
