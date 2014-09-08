@@ -47,10 +47,15 @@ GitHub workshop
 
 * **Discussion:** [Assignment/exercise design](assignment_design.md)
 * **Technical:** [Animation](topics/animation.md)
-* **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
+* **Speaker:**
+    * [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
     * Make your project move.
+    * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
+    * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
+    * Read ["How to Design Community-Building Events People Will Love and Remember](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
+
 
 ## Oct 9
 
@@ -76,7 +81,8 @@ GitHub workshop
 
 * **Discussion:** [Outcomes](topics/outcomes.md)
 * **Technical:** [APIs](topics/apis.md)
-* **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
+* **Speakers:**
+    * [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 
 ## Oct 30
 
@@ -84,8 +90,7 @@ TBD
 
 ## Nov 6
 
-* TBD
-* **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
+TBD
 
 ## Nov 13
 
