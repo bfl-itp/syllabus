@@ -18,8 +18,9 @@
     * [Terminology](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
     * HTML attributes (e.g. `class`)
     * "Cascading"
+1. **Exercise:** Give your resume some :boom: :sparkles: style :star2: :tada:
 1. Local development (HTML + CSS files)
-1. Give your resume some :boom: :sparkles: style :star2: :tada:
+1. **Exercise:** Fork, commit, and view the [instructional](https://github.com/bfl-itp/instructional/) Page
 
 ## Resources
 
