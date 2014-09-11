@@ -5,10 +5,10 @@
     * *Do not refresh*
     * [Save a screenshot](http://www.take-a-screenshot.org/)
 1. HTML
-    1. Box model
-    1. Boilerplate
+    * Box model
+    * Boilerplate
         * Show in [JS Bin](http://jsbin.com/)
-    1. Common elements
+    * Common elements
         * `<div>`
         * `<span>`
         * `<ul>`
@@ -23,6 +23,9 @@
 1. **Exercise:** Give your resume some :boom: :sparkles: style :star2: :tada:
 1. Local development (HTML + CSS files)
 1. **Exercise:** Fork, commit, and view the [instructional](https://github.com/bfl-itp/instructional/) Page
+1. Paths
+    * Relative
+    * Absolute
 
 ## Resources
 
