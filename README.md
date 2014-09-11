@@ -35,7 +35,7 @@ You will be evaluated on:
 * Assignments – 55%
 * Final project – 25%
 
-Also, keep track of inspiration and resources used for each assignment, and share them when presenting each project.
+In short: whether you work hard or not.  Also, keep track of inspiration and resources used for each assignment, and share them when presenting each project.
 
 ## License
 
