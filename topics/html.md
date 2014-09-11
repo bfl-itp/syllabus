@@ -3,6 +3,7 @@
 * Chrome Inspector
 * Box model
 * Boilerplate
+    * Show in [JS Bin](http://jsbin.com/)
 * Common elements
     * `<div>`
     * `<span>`
@@ -20,3 +21,8 @@
     * CSS
         * [guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
         * [reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+## Tools
+
+* [HTML validator](http://validator.w3.org/)
+* [Sandboxes](https://github.com/advanced-js/syllabus#htmlcssjs-sandboxes)
