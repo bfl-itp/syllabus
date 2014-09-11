@@ -1,14 +1,28 @@
 # HTML & CSS
 
 * Chrome Inspector
-* Box model
-* Boilerplate
-    * Show in [JS Bin](http://jsbin.com/)
-* Common elements
-    * `<div>`
-    * `<span>`
-    * ``
-    * Heading elements (`<h1>`, `<h2>`, etc.)
+* HTML
+    * Box model
+    * Boilerplate
+        * Show in [JS Bin](http://jsbin.com/)
+    * Common elements
+        * `<div>`
+        * `<span>`
+        * `<ul>`
+        * Heading elements (`<h1>`, `<h2>`, etc.)
+* CSS
+    * [Terminology](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
+    * HTML attributes (e.g. `class`)
+    * "Cascading"
+* Local development (HTML + CSS files)
+
+## Exercise
+
+1. Pick your favorite web site, and remix it through the Inspector
+    * *Do not refresh*
+    * Save with a screenshot
+1. Create a simplified version of your resume
+1. Give it some :boom: :sparkles: style :star2: :tada:
 
 ## Resources
 
