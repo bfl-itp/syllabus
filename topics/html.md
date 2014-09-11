@@ -13,6 +13,8 @@
         * `<span>`
         * `<ul>`
         * Heading elements (`<h1>`, `<h2>`, etc.)
+        * `<a>`
+        * `<img>`
 1. **Exercise:** Create a simplified version of your resume
 1. CSS
     * [Terminology](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)

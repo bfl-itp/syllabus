@@ -18,7 +18,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
 * **Technical:** [HTML & CSS](topics/html.md)
 * **Assignments:**
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
-    * Take the offline assignment online. Use the [instructional](https://github.com/bfl-itp/instructional) repository.
+    * [Instructional Thing, Part II](https://github.com/bfl-itp/instructional)
 
 ## Sep 12, 6:30-8pm
 
