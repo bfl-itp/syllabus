@@ -3,10 +3,7 @@
 * Developer tools
     * Console
     * Debugger
-    * JSHint
-    * Resources
-        * Code School's [Discover DevTools](http://discover-devtools.codeschool.com/), chapters 1-4
-        * [Official documentation](https://developer.chrome.com/devtools/index)
+    * [JSHint](http://www.jshint.com/)
 * Variables
     * Show in [Mistakes](http://mistakes.io/)
 * Functions
@@ -17,10 +14,12 @@
 
 ## Resources
 
-Lists from Aidan's Advanced JS class:
-
-* [Beginner materials](https://github.com/advanced-js/syllabus#beginner-materials)
-* [Reference guides](https://github.com/advanced-js/syllabus#reference)
+* JavaScript
+    * [Beginner materials](https://github.com/advanced-js/syllabus#beginner-materials)
+    * [Reference guides](https://github.com/advanced-js/syllabus#reference)
+* DevTools
+    * Code School's [Discover DevTools](http://discover-devtools.codeschool.com/), chapters 1-4
+    * [Official documentation](https://developer.chrome.com/devtools/index)
 
 ## Tools
 
