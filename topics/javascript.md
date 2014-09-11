@@ -18,7 +18,7 @@
     * [Beginner materials](https://github.com/advanced-js/syllabus#beginner-materials)
     * [Reference guides](https://github.com/advanced-js/syllabus#reference)
 * DevTools
-    * Code School's [Discover DevTools](http://discover-devtools.codeschool.com/), chapters 1-4
+    * Code School's [Discover DevTools](http://discover-devtools.codeschool.com/), chapters 3-4
     * [Official documentation](https://developer.chrome.com/devtools/index)
 
 ## Tools
