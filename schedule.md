@@ -34,6 +34,10 @@ GitHub workshop
     * Watch [Salman Khan's TED Talk](http://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education)
     * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
+### That Night
+
+Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/1887-patchwork-night-nyc-edition
+
 ## Sep 25
 
 * **Discussion:** [Course structure](topics/course_structure.md)
