@@ -8,7 +8,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
 * **Technical:**
     * [Editors](topics/editors.md)
     * [Git & GitHub](topics/github.md)
-    * [Workflow](https://github.com/advanced-js/syllabus#workflow) (note the instructions are written for another class)
+    * [Workflow](README.md#workflow)
 * **Assignment:** [Instructional Thing, Part I](https://github.com/bfl-itp/instructional/#part-i)
 
 ## Sep 11
