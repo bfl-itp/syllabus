@@ -35,7 +35,9 @@ You will be evaluated on:
 * Assignments – 55%
 * Final project – 25%
 
-In short: whether you work hard or not. Also, keep track of inspiration and resources used for each assignment, and share them when presenting each project.
+*In short: whether you work hard or not.*
+
+Explain your project in its README: how it evolved (with photos is a plus), as well as links/images to any inspiration or resources that were helpful. Alternatively, feel free to put this information in a blog post, and simply link from the README instead.
 
 ## License
 
