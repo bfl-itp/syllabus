@@ -8,7 +8,7 @@
 1. Refresh the `index.html` page to see the results, and repeat.
 1. Explain your project in the README:
     * How it evolved (with photos is a plus)
-    * Links/images to any inspiration or resources that were helpful
+    * Links/images/[video](http://stackoverflow.com/a/14945782/358804) of any inspiration or resources that were helpful
     * Feel free to put the above information in a blog post, and simply link from the README instead.
 1. Make sure all of your changes are committed.
 1. "Sync" your commits from the GitHub app.
