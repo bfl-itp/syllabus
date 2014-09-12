@@ -9,7 +9,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
     * [Editors](topics/editors.md)
     * [Git & GitHub](topics/github.md)
     * [Workflow](https://github.com/advanced-js/syllabus#workflow) (note the instructions are written for another class)
-* **Assignment:** [Instructional Thing, Part I](https://github.com/bfl-itp/instructional/tree/gh-pages#part-i)
+* **Assignment:** [Instructional Thing, Part I](https://github.com/bfl-itp/instructional/#part-i)
 
 ## Sep 11
 
@@ -18,7 +18,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
 * **Technical:** [HTML & CSS](topics/html.md)
 * **Assignments:**
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
-    * [Instructional Thing, Part II](https://github.com/bfl-itp/instructional/tree/gh-pages#part-ii)
+    * [Instructional Thing, Part II](https://github.com/bfl-itp/instructional/#part-ii)
 
 ## Sep 12, 6:30-8pm
 
