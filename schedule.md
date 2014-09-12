@@ -85,12 +85,16 @@ GitHub workshop
 
 ## Oct 30
 
-TBD
+* TBD
+* **Assignments:**
+    * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
+    * TBD
 
 ## Nov 6
 
 * TBD
 * **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
+    * See also: [*Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling*](http://www.amazon.com/dp/1452255490/)
 
 ## Nov 13
 
