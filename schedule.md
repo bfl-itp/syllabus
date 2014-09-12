@@ -9,7 +9,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
     * [Editors](topics/editors.md)
     * [Git & GitHub](topics/github.md)
     * [Workflow](https://github.com/advanced-js/syllabus#workflow) (note the instructions are written for another class)
-* **Assignment:** Make a small tutorial or instructional "thing" that could be understood by someone who doesn't speak English. Use any medium/materials/style you want, *other* than a web page: crayon drawing, [aircraft safety card](https://www.google.com/search?q=aircraft+safety+card&tbm=isch), origami, Lego diorama, [IKEA-style manual](http://www.ikea.com/ms/en_US/customer_service/assembly_instructions.html), etc.
+* **Assignment:** [Instructional Thing, Part I](https://github.com/bfl-itp/instructional/tree/gh-pages#part-i)
 
 ## Sep 11
 
@@ -18,7 +18,7 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
 * **Technical:** [HTML & CSS](topics/html.md)
 * **Assignments:**
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
-    * [Instructional Thing, Part II](https://github.com/bfl-itp/instructional)
+    * [Instructional Thing, Part II](https://github.com/bfl-itp/instructional/tree/gh-pages#part-ii)
 
 ## Sep 12, 6:30-8pm
 
