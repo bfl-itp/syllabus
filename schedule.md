@@ -14,7 +14,6 @@ Regular classes are Thursdays 9-11:55 AM. *Order, structure, and basically every
 ## Sep 11
 
 * **Show & tell:** "Offline" assignment
-* **Discussion:** [The Ed-Tech Landscape](topics/landscape.md)
 * **Technical:** [HTML & CSS](topics/html.md)
 * **Assignments:**
     * Watch ["How to Teach Yourself to Code"](https://www.youtube.com/watch?v=T0qAjgQFR4c)
@@ -26,7 +25,7 @@ GitHub workshop
 
 ## Sep 18
 
-* **Discussion:** [Audience](topics/audience.md)
+* **Discussion:** [The Ed-Tech Landscape](topics/landscape.md)
 * **Technical:** [JavaScript](topics/javascript.md)
 * **Speaker:** [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
 * **Assignments:**
@@ -40,7 +39,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Sep 25
 
-* **Discussion:** [Course structure](topics/course_structure.md)
+* **Discussion:** [Audience](topics/audience.md)
 * **Technical:** jQuery basics
 * **Speaker:** [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
 * **Assignments:**
@@ -51,7 +50,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 2
 
-* **Discussion:** [Assignment/exercise design](assignment_design.md)
+* **Discussion:** [Course structure](topics/course_structure.md)
 * **Technical:** [Animation](topics/animation.md)
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
@@ -60,7 +59,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 9
 
-* **Discussion:** [Incentives](topics/incentives.md)
+* **Discussion:** [Assignment/exercise design](assignment_design.md)
 * **Technical:** [Persistence](topics/persistence.md)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
@@ -68,9 +67,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 16
 
-* **Discussion:** Support mechanisms
-    * [Community](topics/community.md)
-    * Mentorship
+* **Discussion:** [Incentives](topics/incentives.md)
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
 * **Assignments:**
     * Read ["Whose agency matters? Negotiating pedagogical and creative intent during composing experiences."](http://www.mendeley.com/download/public/6244093/4517967961/9728fd1316197329a5e9e5dbd2dc3f78ae11cd7a/dl.pdf)
@@ -84,7 +81,9 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 23
 
-* **Discussion:** [Outcomes](topics/outcomes.md)
+* **Discussion:** Support mechanisms
+    * [Community](topics/community.md)
+    * Mentorship
 * **Technical:** [APIs](topics/apis.md)
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 * **Assignments:**
@@ -93,6 +92,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 30
 
+* **Discussion:** [Outcomes](topics/outcomes.md)
 * TBD
 * **Assignments:**
     * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
