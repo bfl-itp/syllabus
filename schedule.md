@@ -26,12 +26,11 @@ GitHub workshop
 ## Sep 18
 
 * **Discussion:** [The Ed-Tech Landscape](topics/landscape.md)
-* **Technical:** [JavaScript](topics/javascript.md)
 * **Speaker:** [Mattan Griffel](http://about.me/mattangriffel), [One Month](https://onemonth.com/)
 * **Assignments:**
     * Read ["Using Google Docs to scale a lean startup"](http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/)
     * Watch [Salman Khan's TED Talk](http://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education)
-    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
+    * TBD
 
 ### That Night
 
@@ -40,18 +39,18 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 ## Sep 25
 
 * **Discussion:** [Audience](topics/audience.md)
-* **Technical:** jQuery basics
+* **Technical:** [JavaScript](topics/javascript.md)
 * **Speaker:** [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
 * **Assignments:**
     * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
     * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
     * Read ["How to Design Community-Building Events People Will Love and Remember](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
-    * TBD
+    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
 ## Oct 2
 
 * **Discussion:** [Course structure](topics/course_structure.md)
-* **Technical:** [Animation](topics/animation.md)
+* **Technical:** jQuery basics
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
@@ -60,7 +59,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 ## Oct 9
 
 * **Discussion:** [Assignment/exercise design](assignment_design.md)
-* **Technical:** [Persistence](topics/persistence.md)
+* **Technical:** [Animation](topics/animation.md)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
     * Make your project remember where the user left off.
@@ -68,6 +67,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 ## Oct 16
 
 * **Discussion:** [Incentives](topics/incentives.md)
+* **Technical:** [Persistence](topics/persistence.md)
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
 * **Assignments:**
     * Read ["Whose agency matters? Negotiating pedagogical and creative intent during composing experiences."](http://www.mendeley.com/download/public/6244093/4517967961/9728fd1316197329a5e9e5dbd2dc3f78ae11cd7a/dl.pdf)
