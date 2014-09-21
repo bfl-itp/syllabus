@@ -30,7 +30,7 @@ GitHub workshop
 * **Assignments:**
     * Read ["Using Google Docs to scale a lean startup"](http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/)
     * Watch [Salman Khan's TED Talk](http://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education)
-    * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
+    * Complete [Iconomation](https://github.com/bfl-itp/iconomation) assignment
 
 ### That Night
 
@@ -54,7 +54,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
-    * TBD
+    * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
 
 ## Oct 9
 
