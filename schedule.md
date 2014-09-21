@@ -30,7 +30,7 @@ GitHub workshop
 * **Assignments:**
     * Read ["Using Google Docs to scale a lean startup"](http://pando.com/2013/08/05/using-google-docs-to-scale-a-lean-startup/)
     * Watch [Salman Khan's TED Talk](http://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education)
-    * TBD
+    * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
 
 ### That Night
 
