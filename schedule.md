@@ -44,8 +44,8 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Assignments:**
     * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
     * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
-    * Read ["How to Design Community-Building Events People Will Love and Remember](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
-    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
+    * Read ["How to Design Community-Building Events People Will Love and Remember"](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
+    * TBD
 
 ## Oct 2
 
@@ -54,7 +54,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
-    * Make your project move.
+    * TBD
 
 ## Oct 9
 
@@ -62,7 +62,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Technical:** [Animation](topics/animation.md)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
-    * Make your project remember where the user left off.
+    * Make your project move.
 
 ## Oct 16
 
@@ -74,6 +74,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
     * Learn about [Play With Your Music](http://www.playwithyourmusic.org/):
         * [About](http://www.playwithyourmusic.org/about/)
         * [Meet & Greet](http://community.playwithyourmusic.org/category/meet)
+    * Make your project remember where the user left off.
 
 ## Oct 18-19 (strongly recommended)
 
@@ -103,6 +104,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * TBD
 * **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
     * See also: [*Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling*](http://www.amazon.com/dp/1452255490/)
+    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 
 ## Nov 13
 
