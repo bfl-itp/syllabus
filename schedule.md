@@ -42,9 +42,8 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Technical:** [JavaScript](topics/javascript.md)
 * **Speaker:** [Darrell Silver](http://darrellsilver.com/), [Thinkful](http://www.thinkful.com/)
 * **Assignments:**
-    * Read ["Rethinking Assessment, Supporting Diversity](http://reports.p2pu.org/rethinking-assessment/)
-    * Read ["Assessment on the Web"](http://reports.p2pu.org/reports/assessment_on_the_web/)
-    * Read ["How to Design Community-Building Events People Will Love and Remember"](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
+    * Read ["Rethinking Assessment, Supporting Diversity"](http://reports.p2pu.org/rethinking-assessment/)
+    * Read ["Assessment on the Web"](http://reports.p2pu.org/assessment-on-the-web/part-1/)
     * TBD
 
 ## Oct 2
