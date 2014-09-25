@@ -44,7 +44,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Assignments:**
     * Read ["Rethinking Assessment, Supporting Diversity"](http://reports.p2pu.org/rethinking-assessment/)
     * Read ["Assessment on the Web"](http://reports.p2pu.org/assessment-on-the-web/part-1/)
-    * TBD
+    * Complete [React](https://github.com/bfl-itp/react) assignment
 
 ## Oct 2
 
@@ -61,7 +61,8 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Technical:** [Animation](topics/animation.md)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
-    * Make your project move.
+    * Make your project move, e.g.:
+        * Reveal steps using parallax (via a library like [Stellar.js](http://markdalgleish.com/projects/stellar.js/))
 
 ## Oct 16
 
