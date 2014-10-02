@@ -51,6 +51,7 @@
         * [Google Helpout](https://helpouts.google.com/)
     * Use different mediums
     * Project musical chairs
+    * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
     * Final project
         * Pick favorite assignment and expand upon it
 * Topics

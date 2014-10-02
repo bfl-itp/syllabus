@@ -44,7 +44,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Assignments:**
     * Read ["Rethinking Assessment, Supporting Diversity"](http://reports.p2pu.org/rethinking-assessment/)
     * Read ["Assessment on the Web"](http://reports.p2pu.org/assessment-on-the-web/part-1/)
-    * Complete [React](https://github.com/bfl-itp/react) assignment
+    * Complete [React assignment, Part I](https://github.com/bfl-itp/react)
 
 ## Oct 2
 
@@ -53,7 +53,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
-    * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
+    * Complete [React assignment, Part II](https://github.com/bfl-itp/react#part-ii)
 
 ## Oct 9
 
