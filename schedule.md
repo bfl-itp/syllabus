@@ -53,6 +53,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Vanessa Gennarelli](http://mozzadrella.me/), [P2PU](https://p2pu.org/)
 * **Assignment:**
     * Watch ["Inventing on Principle"](https://vimeo.com/36579366)
+    * Spend 10-15 minutes playing with [Scratch](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
     * Complete [React assignment, Part II](https://github.com/bfl-itp/react#part-ii)
 
 ## Oct 9
