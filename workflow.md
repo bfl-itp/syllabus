@@ -1,7 +1,7 @@
 # Assignment Workflow
 
 1. Fork the repository for the assignment, which should appear at `github.com/YOU/REPOSITORY`.
-1. Click the "Clone in Desktop" button on the right sidebar.
+1. Click the "Clone in Desktop" button on the right sidebar from *your fork, not the original*. (If you get a "permission denied" error later, you probably skipped this step.)
 1. Open the `index.html` file in a browser and open the Developer Tools.
 1. Modify the files, and add any files/libraries/assets you need.
 1. Make small commits as you go.
