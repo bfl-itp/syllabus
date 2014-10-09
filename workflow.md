@@ -21,7 +21,7 @@ Your solution will be live at `http://USERNAME.github.io/REPOSITORY`. Make sure 
 
 ## Automatic Style Checking
 
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors. If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were. This automated feedback will help you write better code. If it's green, you're good to go.
+When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors. If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were. This automated feedback will help you write better code. If it's green checkmark, you're good to go.
 
 ## Discussion
 
