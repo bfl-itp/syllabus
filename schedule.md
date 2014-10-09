@@ -58,7 +58,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 ## Oct 9
 
-* **Discussion:** [Assignment/exercise design](assignment_design.md)
+* **Discussion:** [Assignment/exercise design](topics/assignment_design.md)
 * **Technical:** [Animation](topics/animation.md)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
