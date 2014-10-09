@@ -17,7 +17,7 @@
 
 ## Live Preview
 
-Your solution will be live at `http://USERNAME.github.io/REPOSITORY`. Note that after your initial push/sync, it may take up to ten minutes for the site to appear.
+Your solution will be live at `http://USERNAME.github.io/REPOSITORY`. Make sure this version works, since it's what will be looked at to give feedback. Note that after your initial push/sync, it may take up to ten minutes for the site to appear.
 
 ## Automatic Style Checking
 
