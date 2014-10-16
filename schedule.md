@@ -64,9 +64,8 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
     * Make your project move, e.g.:
         * Reveal steps using parallax (via a library like [Stellar.js](http://markdalgleish.com/projects/stellar.js/))
-        * Make objects on the page moveable/draggable/resizeable/etc, using:
-            * [HTML5 `draggable`](http://www.html5rocks.com/en/tutorials/dnd/basics/)
-            * [jQuery UI Interactions](http://api.jqueryui.com/category/interactions/)
+        * Make objects on the page moveable/draggable/resizeable/etc.
+            * Using a library like [jQuery UI Interactions](http://api.jqueryui.com/category/interactions/) is recommended
 
 ## Oct 16
 
