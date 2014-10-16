@@ -99,6 +99,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 * **Discussion:** [Outcomes](topics/outcomes.md)
 * TBD
+* **Speaker:** [Kara Chesal](https://twitter.com/KCintheNYC) and [Preeti Berla](http://www.linkedin.com/in/preetibirla), [iZone](http://izonenyc.org/) ([NYC Department of Education](http://schools.nyc.gov/))
 * **Assignments:**
     * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
     * TBD
