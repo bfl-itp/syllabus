@@ -74,6 +74,12 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 * **Discussion:** [Incentives](topics/incentives.md)
 * **Technical:** [Animation](topics/animation.md)
+* **In-class exercise:** [Pair programming](http://en.wikipedia.org/wiki/Pair_programming)
+    * Game options:
+        * [Memory](https://github.com/advanced-js/memory)
+        * [Operation](https://www.youtube.com/watch?v=mKUQEn35IdE)
+        * [Tic Tac Toe](http://www.calculatorcat.com/games/tic_tac_toe.phtml)
+    * [Tips](https://github.com/advanced-js/syllabus#pairing-tips)
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
 * **Assignments:**
     * Read ["Whose agency matters? Negotiating pedagogical and creative intent during composing experiences."](http://www.mendeley.com/download/public/6244093/4517967961/9728fd1316197329a5e9e5dbd2dc3f78ae11cd7a/dl.pdf)
@@ -95,7 +101,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 * **Assignments:**
     * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
-    * Make your project remember where the user left off.
+    * Make a project with some sort of score/workflow/etc., and have the project pick up where the user left off if they close and re-open the page.
 
 ## Oct 30
 
