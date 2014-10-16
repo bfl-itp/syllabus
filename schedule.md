@@ -82,6 +82,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
         * [Tic Tac Toe](http://www.calculatorcat.com/games/tic_tac_toe.phtml)
     * [Tips](https://github.com/advanced-js/syllabus#pairing-tips)
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
+    * Book recommendation: [*The Diamond Age*](http://smile.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966/)
 * **Assignments:**
     * Read ["Whose agency matters? Negotiating pedagogical and creative intent during composing experiences."](http://www.mendeley.com/download/public/6244093/4517967961/9728fd1316197329a5e9e5dbd2dc3f78ae11cd7a/dl.pdf)
     * Learn about [Play With Your Music](http://www.playwithyourmusic.org/):
