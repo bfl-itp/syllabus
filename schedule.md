@@ -59,7 +59,10 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 ## Oct 9
 
 * **Discussion:** [Assignment/exercise design](topics/assignment_design.md)
-* **Technical:** [Animation](topics/animation.md)
+* **Technical:** More JavaScript:
+    * Objects
+    * Event Handling
+    * Review
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
     * Make your project move, e.g.:
@@ -70,14 +73,14 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 ## Oct 16
 
 * **Discussion:** [Incentives](topics/incentives.md)
-* **Technical:** [Persistence](topics/persistence.md)
+* **Technical:** [Animation](topics/animation.md)
 * **Speaker:** [Nikolaos "Nikos" Michalakis](http://www.linkedin.com/pub/nikolaos-michalakis/1/40b/3b0) (a.k.a. [Dr. Techniko](http://drtechniko.com/)), [Knewton](http://www.knewton.com/)
 * **Assignments:**
     * Read ["Whose agency matters? Negotiating pedagogical and creative intent during composing experiences."](http://www.mendeley.com/download/public/6244093/4517967961/9728fd1316197329a5e9e5dbd2dc3f78ae11cd7a/dl.pdf)
     * Learn about [Play With Your Music](http://www.playwithyourmusic.org/):
         * [About](http://www.playwithyourmusic.org/about/)
         * [Meet & Greet](http://community.playwithyourmusic.org/category/meet)
-    * Make your project remember where the user left off.
+    * Iterate on [React](https://github.com/bfl-itp/react)
 
 ## Oct 18-19 (strongly recommended)
 
@@ -88,16 +91,16 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Discussion:** Support mechanisms
     * [Community](topics/community.md)
     * Mentorship
-* **Technical:** [APIs](topics/apis.md)
+* **Technical:** [Persistence](topics/persistence.md)
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 * **Assignments:**
     * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
-    * TBD
+    * Make your project remember where the user left off.
 
 ## Oct 30
 
 * **Discussion:** [Outcomes](topics/outcomes.md)
-* TBD
+* **Technical:** [APIs](topics/apis.md)
 * **Speaker:** [Kara Chesal](https://twitter.com/KCintheNYC) and [Preeti Berla](http://www.linkedin.com/in/preetibirla), [iZone](http://izonenyc.org/) ([NYC Department of Education](http://schools.nyc.gov/))
 * **Assignments:**
     * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
