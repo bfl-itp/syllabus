@@ -60,9 +60,10 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 
 * **Discussion:** [Assignment/exercise design](topics/assignment_design.md)
 * **Technical:** More JavaScript:
-    * Objects
-    * Event Handling
     * Review
+    * Objects
+    * Multiple event handling
+    * [`$(document).ready()`](http://learn.jquery.com/using-jquery-core/document-ready/)
 * **Assignments:**
     * Read ["How to Train Your Robot"](http://drtechniko.com/2012/04/09/how-to-train-your-robot/)
     * Make your project move, e.g.:
