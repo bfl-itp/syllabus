@@ -100,6 +100,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
     * [Community](topics/community.md)
     * Mentorship
 * **Technical:** [Persistence](topics/persistence.md)
+* **In-class exercise:** Repeat pair programming?
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 * **Assignments:**
     * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
