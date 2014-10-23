@@ -103,7 +103,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Alex Ruthmann](http://www.alexruthmann.com/), [NYU MusEdLab](http://www.experiencingaudio.org/)
 * **Assignments:**
     * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
-    * Make a project with some sort of score/workflow/etc., and have the project pick up where the user left off if they close and re-open the page.
+    * Complete [stateful](https://github.com/bfl-itp/stateful) assignment
 
 ## Oct 30
 
@@ -112,7 +112,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Speaker:** [Kara Chesal](https://twitter.com/KCintheNYC) and [Preeti Berla](http://www.linkedin.com/in/preetibirla), [iZone](http://izonenyc.org/) ([NYC Department of Education](http://schools.nyc.gov/))
 * **Assignments:**
     * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
-    * TBD
+    * Start on final projects
 
 ## Nov 6
 

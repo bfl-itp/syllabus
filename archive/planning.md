@@ -43,7 +43,6 @@
          * Recent news
               * Soloway's class
     * Learning materials vs tools
-    * Solve the problem as best you can without writing a line of code
     * Challenge students to make something that isn't around coding?
     * Teach a workshop
         * [Skillshare](http://www.skillshare.com/)
