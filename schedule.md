@@ -105,6 +105,7 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Assignments:**
     * Read [NYTimes article](http://www.nytimes.com/2011/08/16/science/16stanford.html) about Stanford's online [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) course
     * Complete [stateful](https://github.com/bfl-itp/stateful) assignment
+    * Come up with [elevator pitches](http://en.wikipedia.org/wiki/Elevator_pitch) for three distinct final project ideas
 
 ## Oct 30
 
