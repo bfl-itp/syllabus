@@ -112,16 +112,40 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
 * **Discussion:** [Outcomes](topics/outcomes.md)
 * **Technical:** [APIs](topics/apis.md)
 * **Speaker:** [Kara Chesal](https://twitter.com/KCintheNYC) and [Preeti Berla](http://www.linkedin.com/in/preetibirla), [iZone](http://izonenyc.org/) ([NYC Department of Education](http://schools.nyc.gov/))
+* Form final project teams
 * **Assignments:**
     * Read [Five Common but Questionable Principles of Multimedia Learning](http://www.cogtech.usc.edu/publications/clark_five_common.pdf)
-    * Start on final projects
+    * Start on final projects. In a shared place (Google Doc, wiki, etc. – somewhere publicly readable):
+        1. Decide on a target demographic
+        1. Interview target users to find out what their challenges and motivations are
+        1. Write up two or three [user stories](http://en.wikipedia.org/wiki/User_story)
+        1. Come up with a one-paragraph project proposal
 
 ## Nov 6
 
-* TBD
+* Present project proposals
+* **Technical:** GitHub workshop II
+    * Set up a repository for each team
+    * Issues
+    * Merge conflict when pulling
+    * Branching
+    * Pull requests between branches
 * **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
     * See also: [*Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling*](http://www.amazon.com/dp/1452255490/)
     * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
+* **Assignments:**
+    1. Watch [Divergent Thinking](https://www.youtube.com/watch?v=zDZFcDGpL4U)
+    1. Do collective [market research](http://en.wikipedia.org/wiki/Market_research) with your team
+        * Have each team member do a written review of a different resource/tool loosely related to your project (750+ words)
+            * Who is it targeting?
+            * What prior knowledge is assumed?
+            * What design elements are being used?
+            * What [learning theory(s)](https://speakerdeck.com/mozzadrella/disruptive-technologies-to-fix-education-and-scale-solutions?slide=13) are being used?
+            * What are its biggest strengths?
+            * What are its weaknesses?
+        * Find two or more existing resources related to your focus area – they do not need to be electronic/interactive
+    1. As a group, [wireframe](http://en.wikipedia.org/wiki/Website_wireframe) your tool/resource
+    1. Create an absolutely minimal prototype
 
 ## Nov 13
 
