@@ -132,7 +132,6 @@ Another GitHub workshop, this one run by GitHub itself: https://github.com/blog/
     * Pull requests between branches
 * **Speaker:** [Bror Saxberg](http://brorsblog.typepad.com/), [Kaplan](http://www.kaplan.com/)
     * See also: [*Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling*](http://www.amazon.com/dp/1452255490/)
-    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
 * **Assignments:**
     1. Watch [Divergent Thinking](https://www.youtube.com/watch?v=zDZFcDGpL4U)
     1. Do collective [market research](http://en.wikipedia.org/wiki/Market_research) with your team

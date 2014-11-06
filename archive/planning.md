@@ -51,6 +51,7 @@
     * Use different mediums
     * Project musical chairs
     * Complete the [Redesign](https://github.com/bfl-itp/redesign/) assignment
+    * Incorporate audio/video to your project using [Popcorn.js](http://popcornjs.org). You won't be evaluated on multimedia quality... unedited webcam or cell phone camera footage/recording is fine.
     * Final project
         * Pick favorite assignment and expand upon it
 * Topics
